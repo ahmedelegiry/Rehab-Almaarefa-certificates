@@ -1,4 +1,4 @@
-بfunction myfunction(){
+function myfunction(){
     var inputtext=form1.ID_number.value;
     document.getElementById("pdf_file").src=(inputtext);
     
